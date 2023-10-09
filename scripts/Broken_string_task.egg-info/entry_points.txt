@@ -1,0 +1,5 @@
+[console_scripts]
+filtering_reads = filtering_reads:reads_filtering_process
+intersect_breaks = intersect_breaks:reads_intersecting_process
+normalise_counts = normalise_counts:breaks_normalising_process
+plotting = plotting:plotting_process

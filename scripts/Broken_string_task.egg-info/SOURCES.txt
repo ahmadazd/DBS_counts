@@ -1,0 +1,7 @@
+pyproject.toml
+scripts/Broken_string_task.egg-info/PKG-INFO
+scripts/Broken_string_task.egg-info/SOURCES.txt
+scripts/Broken_string_task.egg-info/dependency_links.txt
+scripts/Broken_string_task.egg-info/entry_points.txt
+scripts/Broken_string_task.egg-info/requires.txt
+scripts/Broken_string_task.egg-info/top_level.txt
