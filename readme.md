@@ -1,5 +1,5 @@
 ﻿
-# DBS counts Task
+# DSBs counts Task
 
 The workflows includes the following process:
 -  **Filtering Breaks:** Filter out reads that have a mapping quality of < 30.
